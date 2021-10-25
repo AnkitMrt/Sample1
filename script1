@@ -1,6 +1,0 @@
-def sum(list):
-  sum=0
-  for num in list:
-    ans+=num
-   return sum
-sum([1,2,3,4])
