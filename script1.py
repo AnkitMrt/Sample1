@@ -1,4 +1,4 @@
-def div3(num):
+def div4(num):
   if num%3==0:
     return True
   return False
